@@ -1,4 +1,30 @@
 # Formação Psicanálise
     
-Contém todos os materiais de estudo durante a `Formação em Psicanálise Clínica`.  
-O repositório é dividido em módulos, onde é possível encontrar livros, artigos, apostilas e outras indicações diversas.
+Repositório de materiais de estudo para a Formação em Psicanálise Clínica.  
+É dividido em módulos, contendo livros, artigos, apostilas e outros.  
+
+## Indicações complementares
+
+- Psicanalistas & Psicólogos:  
+~~~
+    Maria Homem (@maria.homem)  
+    Ana Suy (@ana_suy)  
+    Ediane Ribeiro (@edianeoribeiro)  
+    Elisama Santos (@elisamasantosc)  
+    Carol Tilkian (@caroltilkian_amorespossiveis)  
+    Ana Canosa (@anacanosa)  
+    Vera Iaconelli (@veraiaconelli)  
+    Geni Núñez (@genipapos)  
+~~~
+    
+- Cursos:
+~~~
+    ESPE Cast (especast.com.br)  
+    Casa do Saber (casadosaber.com.br)  
+    Escola de Psicanálise Estrutural (youtube.com/@EscolaDePsicanaliseEstrutural)  
+~~~
+    
+- Filmes:  
+~~~
+    Freud, Além da Alma (1962)  
+~~~

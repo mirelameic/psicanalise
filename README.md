@@ -2,8 +2,9 @@
     
 Repositório de materiais de estudo para a Formação em Psicanálise Clínica.  
 É dividido em módulos, contendo livros, artigos, apostilas e outros.  
+    
 
-## Indicações complementares
+## Fontes complementares
 
 - Psicanalistas & Psicólogos:  
 ~~~

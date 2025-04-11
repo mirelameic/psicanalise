@@ -1,8 +1,11 @@
 # Formação Psicanálise
     
-Repositório de materiais de estudo para a Formação em Psicanálise Clínica.  
-É dividido em módulos, contendo livros, artigos, apostilas e outros.  
-    
+Repositório de materiais de estudo para Formação em Psicanálise Clínica.  
+Dividido em módulos, contendo livros, artigos, apostilas e outros.  
+
+## Módulos
+- 1: História e Fundamentos da Psicanálise
+- 2: Teorias do Aparelho Psíquico
 
 ## Fontes complementares
 
